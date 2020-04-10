@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "username": "test", "password": "Test-01", "email": "test@gmail.com", "firstname": "Ana", "Perez": "test", "phone": "+1547958662"},
+    { "id": 2, "username": "test2", "password": "Test-02", "email": "test2@gmail.com", "firstname": "Juan", "Blanco": "test", "phone": "+56547958662" },
+    { "id": 3, "username": "test3", "password": "Test-03", "email": "test3@gmail.com", "firstname": "Chriss", "Evans": "test", "phone": "+19578122366" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "userId": 1 },
+    { "id": 2, "body": "some comment", "userId": 1 }
+  ],
+  "profile": {
+    "name": "myDemo"
+  }
+}
